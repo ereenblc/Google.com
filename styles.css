@@ -1,0 +1,34 @@
+.links{
+	text-align: right;
+	margin-right: 90px;
+	margin-top: 20px;
+}
+
+img{
+	width: 430px;
+	display: block;
+    margin: 0 auto;
+    margin-top: 60px;
+}
+
+form{
+	text-align: center;
+}
+
+#search_bar{
+	width: 561px;
+	height: 42px;
+	border-radius: 21px;
+}
+
+#search_button{
+	height: 40px;
+}
+
+#feeling_lucky_button{
+	height: 40px;
+}
+
+#image_search_button{
+	height: 40px;
+}
